@@ -1,4 +1,4 @@
-# MetodeNumerik_KodeSumber_SolusiSPL
+# Kode Sumber untuk Implementasi Solusi SPL
 # Program:
 Aplikasi untuk mencari solusi SPL dengan metode Matriks Balikan, Dekomposisi LU Gauss, dan Dekomposisi Crout menggunakan Bahasa Pemrograman Python.
 
